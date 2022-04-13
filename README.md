@@ -1,5 +1,5 @@
 # yumasa
-# jangan di rec kontol 
+jangan di rec kontol 
 
 
 
