@@ -1,17 +1,4 @@
-#!/usr/bin/python2
-# coding=utf-8
-# coding by Nazri-XD
-# Note : jangan cuma rekode kontol
-# Open source code by Nazri-XD | ngotak dikit cok jangan jual di perjual belikan...
 
-## Jangan di jual belikan memek...
-## Hargai gue dengan jangan ganti nama author...
-## Dan jangan lupa suscribe chenel gue mmk...
-## Buat yang mau ngamal ke dana -> 081211847166
-## HARUS DANA AJG:V
-
-## TERIMA KASIH BUAT LU YANG UDAH SUSCRIBE YT GUE/DONASI MKSH...
-## Import Module Kntl ..
 import os, sys, time, re, json, requests, bs4, random, calendar, datetime,subprocess, logging
 from concurrent.futures import ThreadPoolExecutor as khamdihiXD
 from datetime import datetime
