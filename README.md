@@ -5,7 +5,7 @@ jangan di rec kontol
 
 git clone https://github.com/nurminxv/yumasa
 
-cd yusamasa
+cd yumasa
 
 ls
 
